@@ -45,6 +45,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b11346ff2ab96c4a9b529c827a4098d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Radius: 1.5
+  Container: {fileID: 0}
+  SwordPrefab: {fileID: 9048820562178727173, guid: ac68b439bbc2929449a23ee401137fb5, type: 3}
+  SwordsQuantity: 20
+  Circumference: 360
+  StartingAngle: 0
+  Scale: 5
+  RotationSpeed: 500
 --- !u!1 &4905364105399002867
 GameObject:
   m_ObjectHideFlags: 0
